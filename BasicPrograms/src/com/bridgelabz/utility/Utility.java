@@ -8,6 +8,8 @@ public class Utility {
 	public int getIntValue() {
 		return scanner.nextInt();
 	}
+	
+	
 	public void getPowerOfTwo(int n) {
 		// TODO Auto-generated method stub
 		if (n>=0 && n<=31)
